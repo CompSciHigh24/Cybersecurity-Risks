@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#bd{
+  background-color: black;
+}
+
+#bd2{
+   background-color: black;
+}
+
+.yellow{
+  font-family: "Black Ops One", system-ui;
+
+  color : #ffff99
+}
+
+.white{
+  font-family: "Special Elite", system-ui;
+
+color : white
+ 
+}
+
+#dark{
+  background-color: #3b3c4e ;
+  color: white 
+  
+}
+
+#bd3{
+background-color: black;
+}
+
+
+#secure{
+  text-align: center;
+}
+
+#dark2{
+  background-color: #3b3c4e ;
+  color: white 
+
+}
+
+#dark3{
+  background-color: #3b3c4e ;
+  color: white 
+
+}
